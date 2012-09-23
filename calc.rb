@@ -10,7 +10,7 @@ puts 9.0/2.0
 puts 1+2
 puts 2*3
 puts 5-8
-puts 9/2
+puts 9/2 # floor operation
 
 puts 6*(60/3)-450+(600*50)	
 
