@@ -4,6 +4,6 @@ This is my first time learning a programming language from the extreme basics. A
 
 Other links to look at if you are considering Ruby:
 
-[Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)
-[Rails for Zombies](http://railsforzombies.org/)
-[Learn to Code by Chris Pine](http://pragprog.com/book/ltp2/learn-to-program)
+- [Try Ruby by Code School](http://tryruby.org/levels/1/challenges/0)
+- [Rails for Zombies](http://railsforzombies.org/)
+- [Learn to Code by Chris Pine](http://pragprog.com/book/ltp2/learn-to-program)
